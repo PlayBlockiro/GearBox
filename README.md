@@ -1,2 +1,2 @@
-# GrindBox
-A experimental game engine, based on some source 1 elements.
+# GearBox
+AN open source reimplementation of Valve's Source 1 engine
